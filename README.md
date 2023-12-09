@@ -7,4 +7,4 @@ tecnologias utlizadas:HTML5,CSS3
 
 ------
 
-<a href="https://xbernardoalvez66.github.io/Book-Landing-page/Book-Landing-page/index.html">bOOK Landing page</a>
+<a href="https://xbernardoalvez66.github.io/Book-Landing-page/Book-Landing-page/index.html">Book Landing page</a>
